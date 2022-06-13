@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    border: 4px solid blue;
+}
+
+.header-logo {
+    size: 24px;
+    color: F9FAF8;
+}
+
+.header-link {
+
+}
