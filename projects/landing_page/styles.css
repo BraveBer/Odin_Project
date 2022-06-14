@@ -4,17 +4,14 @@
 }
 
 .header-logo {
-    color: F9FAF8;
-    padding: 4px;
-    font-weight: 900;
-    font-size: 18px;
+
 }
 
 .header-link {
     padding: 4px;
     display: flex;
     gap: 24px;
-    font-size: 18px;
+    font-size: 30px;
 }
 
 .banner {
@@ -57,20 +54,32 @@
 .content-title {
     font-size: 36px;
     font-weight: bolder;
+    text-align: center;
 }
 
 .content-categories {
     display: flex;
+    justify-content: space-around;
+}
+
+.category {
+
+}
+
+#category-image {
+    width: 128px;
+    height: auto;
 }
 
 .content-quote {
     font-size: 36px;
+    text-align: center;
 }
 
 .content-button {
-
+    text-align: center;
 }
 
 .footer {
-
+    text-align: center;
 }
