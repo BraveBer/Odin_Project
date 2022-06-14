@@ -3,8 +3,9 @@
     justify-content: space-between;
 }
 
-.header-logo {
-
+#header-image {
+    width: 58px;
+    height: auto;
 }
 
 .header-link {
@@ -16,7 +17,7 @@
 
 .banner {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .banner-info {
@@ -26,6 +27,11 @@
 #banner-title {
     font-size: 48px;
     font-weight: bolder;
+}
+
+#banner-image {
+    width: 500px;
+    height: auto;
 }
 
 #banner-text {
